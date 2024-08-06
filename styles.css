@@ -1,1 +1,153 @@
 /* Write your CSS here! */
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+    margin: 8px;
+    padding: 25px 50px;
+    display: block;
+    height: 100%;
+    background-color: rgb(177, 174, 174);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    font-size: 20pt;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.image1 {
+    position: absolute;
+    width: 500px;
+    border: 10px solid white;
+    border-radius: 8px;
+    padding: 0px;
+    top: 175px;
+    left: 50px;
+}
+
+.image2 {
+    position: absolute;
+    width: 500px;
+    border: 10px solid white;
+    border-radius: 8px;
+    padding: 0px;
+    top: 585px;
+    left: 50px;
+}
+
+.image3 {
+    position: absolute;
+    width: 500px;
+    border: 10px solid white;
+    border-radius: 8px;
+    padding: 0px;
+    top: 995px;
+    left: 50px;
+}
+
+
+
+.header-text {
+    text-align: center;
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    font-size: 20pt;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.body-text {
+    position: absolute;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px;
+}
+
+#subheader-text1 {
+    font-size: 15pt;
+    position: absolute;
+    top: 125px;
+    width: 800px;
+    left: 600px;
+    height: 100px;
+}
+
+#subheader-text2 {
+    font-size: 15pt;
+    position: absolute;
+    top: 535px;
+    width: 800px;
+    left: 600px;
+    height: 100px;
+}
+
+#subheader-text3 {
+    font-size: 15pt;
+    position: absolute;
+    top: 950px;
+    width: 800px;
+    left: 600px;
+    height: 100px;
+}
+
+#subheader-text4 {
+    font-size: 15pt;
+    position: absolute;
+    top: 1410px;
+    width: 800px;
+    left: 600px;
+    height: 100px;
+}
+
+#paragraph-text1 {
+    font-size: 10pt;
+    position: absolute;
+    top: 175px;
+    width: 800px;
+    left: 600px;
+    height: 100px;
+}
+
+.funParagraph {
+    color: green;
+    font-size: 10pt;
+    position: absolute;
+    top: 585px;
+    width: 800px;
+    left: 600px;
+    height: 100px;
+}
+
+#testP {
+    font-size: 10pt;
+    position: absolute;
+    top: 1000px;
+    width: 800px;
+    left: 600px;
+    height: 100px;
+}
+
+#footer {
+    font-size: 8;
+    position: absolute;
+    top: 1600px;
+    width: 800px;
+    left: 50px;
+    height: 100px;
+}
+
+
